@@ -1,0 +1,28 @@
+2:"$Sreact.fragment"
+3:"/_next/static/chunks/1ua2kfq9s-me6.js"
+4:"/_next/static/chunks/3non0h7yf6ttr.js"
+5:"/_next/static/chunks/1nm4ras8pd0r-.js"
+6:I[39756,["$3","$4","$5"],"default"]
+7:I[37457,["$3","$4","$5"],"default"]
+c:I[22016,["$3","$4","$5"],""]
+d:I[97367,["$3","$4","$5"],"OutletBoundary"]
+e:"$Sreact.suspense"
+11:"ViewportBoundary"
+12:I[97367,["$3","$4","$5"],"$11"]
+13:"MetadataBoundary"
+14:I[97367,["$3","$4","$5"],"$13"]
+15:I[27201,["$3","$4","$5"],"IconMark"]
+9:X
+9:C
+a:X
+b:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[["$","section",null,{"className":"relative isolate grid min-h-[100svh] place-items-center overflow-hidden bg-navy-950 px-6 text-center text-white","children":[["$","div",null,{"className":"blueprint-dark absolute inset-0 -z-10","aria-hidden":true}],["$","div",null,{"children":[["$","p",null,{"className":"text-8xl font-bold text-copper-500 md:text-9xl","dir":"ltr","children":"404"}],["$","h1",null,{"className":"mt-6 text-3xl font-bold","children":"الصفحة غير موجودة"}],["$","p",null,{"className":"mt-3 text-white/70","children":"ربما تغيّر الرابط أو نُقلت الصفحة."}],["$","div",null,{"className":"mt-8 flex flex-wrap justify-center gap-3","children":[["$","$Lc",null,{"href":"/","className":"group/btn inline-flex min-h-12 items-center justify-center gap-2.5 rounded-[0.625rem] px-6 text-[0.95rem] font-semibold transition-all duration-300 ease-[var(--ease-premium)] active:scale-[0.98] bg-copper-500 text-navy-950 hover:bg-copper-600 hover:text-white shadow-[0_12px_28px_-12px_rgb(197_138_83/0.8)] ","children":"الرئيسية"}],["$","$Lc",null,{"href":"/services","className":"group/btn inline-flex min-h-12 items-center justify-center gap-2.5 rounded-[0.625rem] px-6 text-[0.95rem] font-semibold transition-all duration-300 ease-[var(--ease-premium)] active:scale-[0.98] border border-white/35 text-white hover:border-white hover:bg-white/10 ","children":"خدماتنا"}]]}]]}]]}],null,["$","$Ld",null,{"children":["$","$e",null,{"name":"Next.MetadataOutlet","children":"$@f"}]}]]}],"p":"$@10","v":null,"s":"$a"}}]]
+1:[["children",{"s":"/_not-found","h":64,"d":{"r":["$","$2","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","template":["$","$L7",null,{}]}]]}],"p":"$@8","v":"$9","s":"$a"},"c":"$Qb"}]]
+0:{"t":{"t":{"s":"","h":16,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L12",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#102a3a"}]]}],["$","$L14",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$e",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"العزل الشامل — متخصص في العوازل المائية والحرارية في الرياض"}],["$","meta","1",{"name":"description","content":"العزل الشامل — شركة متخصصة في العزل المائي والحراري وعزل الأسطح وهناقر المصانع وعزل الفوم وبيع مواد العزل في الرياض والمملكة العربية السعودية."}],["$","meta","2",{"name":"application-name","content":"العزل الشامل"}],["$","meta","3",{"name":"robots","content":"index, follow, max-image-preview:large"}],["$","link","4",{"rel":"canonical","href":"https://alazil.com.sa/"}],["$","meta","5",{"name":"google-site-verification","content":"EwC7hCwNphLfhcId1eEbD8RmZJGSP2BNHo7yOF7LKWY"}],["$","meta","6",{"property":"og:title","content":"العزل الشامل — متخصص في العوازل المائية والحرارية"}],["$","meta","7",{"property":"og:description","content":"العزل الشامل — شركة متخصصة في العزل المائي والحراري وعزل الأسطح وهناقر المصانع وعزل الفوم وبيع مواد العزل في الرياض والمملكة العربية السعودية."}],["$","meta","8",{"property":"og:url","content":"https://alazil.com.sa/"}],["$","meta","9",{"property":"og:site_name","content":"العزل الشامل"}],["$","meta","10",{"property":"og:locale","content":"ar_SA"}],["$","meta","11",{"property":"og:image","content":"https://alazil.com.sa/images/hero/hero-01.jpg"}],["$","meta","12",{"property":"og:image:width","content":"1920"}],["$","meta","13",{"property":"og:image:height","content":"1080"}],["$","meta","14",{"property":"og:image:alt","content":"العزل الشامل"}],["$","meta","15",{"property":"og:type","content":"website"}],["$","meta","16",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","17",{"name":"twitter:title","content":"العزل الشامل — متخصص في العوازل المائية والحرارية"}],["$","meta","18",{"name":"twitter:description","content":"العزل الشامل — شركة متخصصة في العزل المائي والحراري وعزل الأسطح وهناقر المصانع وعزل الفوم وبيع مواد العزل في الرياض والمملكة العربية السعودية."}],["$","meta","19",{"name":"twitter:image","content":"https://alazil.com.sa/images/hero/hero-01.jpg"}],["$","meta","20",{"name":"twitter:image:alt","content":"العزل الشامل"}],["$","meta","21",{"name":"twitter:image:width","content":"1920"}],["$","meta","22",{"name":"twitter:image:height","content":"1080"}],["$","link","23",{"rel":"icon","href":"/favicon.ico?favicon.117ezoe8m31dk.ico","sizes":"48x48","type":"image/x-icon"}],["$","$L15","24",{}]]}]}],null]}],null]}],"p":"$@16","v":null,"s":"$a"}},"a":"$@17","u":"$@18","b":"3dulhQa7NdEsU7EzLvPRB"}
+f:null
+18:true
+a:300
+a:C
+17:0
+8:"$undefined"
+16:"$undefined"
+10:"$undefined"

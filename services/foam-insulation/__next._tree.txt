@@ -1,0 +1,7 @@
+:HL["/_next/static/chunks/26--03br2a5qg.css","style"]
+:HL["/fonts/ibm-plex-sans-arabic-arabic-400-normal.woff2","font",{"crossOrigin":"anonymous","type":"font/woff2"}]
+:HL["/fonts/ibm-plex-sans-arabic-arabic-700-normal.woff2","font",{"crossOrigin":"anonymous","type":"font/woff2"}]
+3:[["children",{"s":"__PAGE__","h":160}]]
+2:[["children",{"s":{"n":"slug","t":"d","k":"foam-insulation","s":[]},"h":65632,"c":"$Q3"}]]
+1:[["children",{"s":"services","h":131136,"c":"$Q2"}]]
+0:{"b":"3dulhQa7NdEsU7EzLvPRB","t":{"t":{"s":"","h":131088,"c":"$Q1"}}}
